@@ -5,6 +5,8 @@
 
 **[IT and Cybersecurity Learning Path](https://benheater.com/it-and-cybersecurity-learning-path/)**
 
+**[Ethical Hacking Learning Path](https://benheater.com/ethical-hacking-learning-path-and-roadmap/)**
+
 <br>
 <br>
 
