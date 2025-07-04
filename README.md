@@ -1,6 +1,8 @@
 # Projects
 **[Proxmox Cybersecurity Lab](https://benheater.com/bare-metal-proxmox-laptop/)**
 
+**[VMware Workstation Cybersecurity Lab](https://benheater.com/building-a-security-lab-in-vmware-workstation-pro/)**
+
 **[VirtualBox Cybersecurity Lab](https://benheater.com/building-a-security-lab-in-virtualbox/)**
 
 **[IT and Cybersecurity Learning Path](https://benheater.com/it-and-cybersecurity-learning-path/)**
