@@ -1,4 +1,6 @@
 # Projects
+**[Infrastructure-as-Code and GitOps with Proxmox](https://benheater.com/infrastructure-as-code-with-proxmox/)**
+
 **[Proxmox Cybersecurity Lab](https://benheater.com/bare-metal-proxmox-laptop/)**
 
 **[VMware Workstation Cybersecurity Lab](https://benheater.com/building-a-security-lab-in-vmware-workstation-pro/)**
